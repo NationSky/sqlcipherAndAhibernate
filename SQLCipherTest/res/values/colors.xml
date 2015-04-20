@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+	<color name="transparent">#00000000</color>
+	<color name="gold">#b89766</color>
+	<color name="c_543e26">#543e26</color>
+	
+	
+	<color name="c_7c6a56">#7c6a56</color>
+	<color name="c_74726d">#74726d</color>
+	<color name="c_a5a2a0">#a5a2a0</color>
+	<color name="c_927a5f">#927a5f</color>
+	<color name="c_8f785d">#8f785d</color>
+	<color name="c_c94b00">#c94b00</color>
+	<color name="c_dda306">#dda306</color>
+	<color name="c_b19472">#b19472</color>
+	<color name="c_f8c12e">#f8c12e</color>
+	<color name="c_fbf2dd">#fbf2dd</color>
+	<color name="c_FFFFFF">#FFFFFF</color>
+	<color name="c_941a19">#914a19</color>
+	<color name="c_afaeac">#afaeac</color>
+	<color name="c_959595">#959595</color>
+	<color name="c_b0b0b0">#b0b0b0</color>
+	<color name="n_74726d">#74726d</color>
+	<color name="c_7a0202">#7a0202</color>
+	<color name="t_595959">#595959</color>
+	<color name="t_ad8369">#ad8369</color>
+	<color name="c_a20303">#a20303</color>
+	<color name="c_8a6202">#8a6202</color>
+	<color name="c_ad987b">#ad987b</color>
+	<color name="c_b6674b">#b6674b</color>
+	<color name="c_d7d5d5">#d7d5d5</color>
+	<drawable name="transparent_bg">@android:color/transparent</drawable>
+	<color name="transparent_background">#00ffffff</color>
+	<color name="c_red">#FF0000</color>
+	
+	<!-- add by zhongcw -->
+	<color name="main_bg_color">#F8F9FA</color>
+	<color name="tab_select_color">#F36220</color>
+	<color name="title_color">#009a80</color> <!-- 绿色 -->
+	<color name="orange">#F36220</color>      <!-- 桔色 -->
+	<color name="abc_green">#aa009a80</color> <!-- 绿色 -->
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="littel_gray">#DDDDDD</color>
+	<color name="table_title_color">#545454</color> <!-- Table标题颜色  -->
+</resources>

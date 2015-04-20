@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/abclifeeSales/!svn/ver/194/esales-android/gexian/eSales_android/src/com/abclife/esales/client/pub/db/ahibernate/util
+END
+BaseDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/abclifeeSales/!svn/ver/194/esales-android/gexian/eSales_android/src/com/abclife/esales/client/pub/db/ahibernate/util/BaseDBHelper.java
+END
+TableHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/abclifeeSales/!svn/ver/194/esales-android/gexian/eSales_android/src/com/abclife/esales/client/pub/db/ahibernate/util/TableHelper.java
+END
+MyDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/abclifeeSales/!svn/ver/194/esales-android/gexian/eSales_android/src/com/abclife/esales/client/pub/db/ahibernate/util/MyDBHelper.java
+END
